@@ -30,7 +30,7 @@ To run this application locally, follow these steps:
 
 2. **Navigate into the project directory:**
    ```bash
-   cd city-based-weather-app
+   cd digital-clock
    
 3. **Install dependencies:**
    ```bash
