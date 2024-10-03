@@ -1,12 +1,12 @@
 # Digital Clock Application
 
-This Digital Clock Application is a simple yet elegant web app built with React.js, displaying the current time and date in a user-friendly format. It updates in real-time, making it a perfect tool for keeping track of time.
+This Digital Clock Application is a simple yet elegant web app built with React.js, displaying the current IST time and date in a user-friendly format. It updates in real-time, making it a perfect tool for keeping track of time.
 
 ## Features
 
-- 🕒 **Real-time Clock**: Updates every second to show the current time.
+- 🕒 **Real-time Clock**: Updates every second to show the current IST time.
 - 📅 **Date Display**: Shows the current date in a readable format.
-- 🌙 **12-Hour Format**: Time is displayed in a 12-hour format with AM/PM.
+- 🌙 **12-Hour Format**: IST Time is displayed in a 12-hour format with AM/PM.
 - 📱 **Responsive Design**: Works seamlessly across various devices.
 
 ## Live Demo
@@ -42,9 +42,9 @@ To run this application locally, follow these steps:
 
 ## Running the Application
 
-The application will be running at [http://localhost:5174](http://localhost:5174).
+The application will be running at [http://localhost:5173](http://localhost:5173).
 
 ### Notes
 1. **Live Demo Link**: [https://digital-clock.abishaek.com/](https://digital-clock.abishaek.com/).
-2. **Repository Link**: Replace `https://github.com/abishaekduresh/DigitalClock-ReactJS.git` with your actual repository link.
+2. **Repository Link**: Replace `https://github.com/abishaekduresh/DigitalClock-ReactJS.git`.
 3. **Personalization**: Feel free to add or modify sections as needed!
